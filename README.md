@@ -51,5 +51,5 @@ A simple 3D game like “Minecraft”. At the beginning of the game user give th
 
 </br>
 <p align="center">
-  <img width="600" height="400" src="./Images/Insructions.png">
+  <img width="600" height="400" src="./Images/Instructions.png">
 </p>
