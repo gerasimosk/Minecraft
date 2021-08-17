@@ -1,4 +1,4 @@
-# Minecraft
+# Minecraft (Unity)
 
 A simple 3D game like “Minecraft”. At the beginning of the game user give the size N of the scene (NxN). The idea of the game is that the player is initially placed on a floor paved with cubes of different colors and moves on the floor building, disappearing cubes, going up, down or falling. The player is one and starts with 100 points and 4 lives. The game lasts as long as the player has lives. The aim is for the player to collect as many points as possible. Operations that require units or a stock of cubes / cylinders are performed only if the corresponding stock does exist. The player can collect virtual cubes and cylinders by creating a stock with which he can later build cubes and cylinders.
 
